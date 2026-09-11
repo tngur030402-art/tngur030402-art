@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Suhyeok Park.
+I'm currently learning AI at Gachon university.
 <!--
 **tngur030402-art/tngur030402-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
